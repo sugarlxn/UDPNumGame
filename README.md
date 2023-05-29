@@ -1,5 +1,5 @@
 # NumGame
-![logo](image\numgamelogo.jpg)
+![logo](image/numgamelogo.jpg)
 这是一个基于UDP网络协议的猜数字游戏服务器与客户端
 支持多用户在同一服务器上多人游戏，同时用户可以通过客户端查询游戏成绩排行榜
 
@@ -14,4 +14,4 @@ pip install sockets
 python3 NumGameServer.py
 python3 NumGameClient.py
 ```
-![Client](image\Client.jpg)
+![Client](image/Client.jpg)
